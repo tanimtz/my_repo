@@ -38,8 +38,8 @@ Antes de construir la aplicación, se realizó un proceso de limpieza de datos q
 💻 Cómo ejecutar la aplicación localmente
 	1.	Clonar el repositorio:
 
-	git clone https://github.com/tanimtz/my_repo
-	cd my_repo
+	git clone https://github.com/tanimtz/vehicle-ads-analysis.git
+	cd vehicle-ads-analysis
 
 	2.	Crear y activar un entorno virtual:
 
